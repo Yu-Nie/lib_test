@@ -64,7 +64,7 @@ $template->parseCurrentBlock();
 
 
 
-// filters incoming variable, account, for disallowed characters (security issue) test making changes
+// filters incoming variable, account, for disallowed characters (security issue) test making changes...
 
 $string_vars = array('account');
 foreach ($string_vars as $string_var){
